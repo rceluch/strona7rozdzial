@@ -1,0 +1,28 @@
+{
+  "name": "6.2.git",
+  "version": "1.0.0",
+  "description": "grunt example",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rceluch/strona7rozdzial.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Robert Celuch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rceluch/strona7rozdzial/issues"
+  },
+  "homepage": "https://github.com/rceluch/strona7rozdzial#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.0"
+  }
+}
